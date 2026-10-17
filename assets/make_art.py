@@ -1,6 +1,8 @@
 """Generate the SVG art for the profile README: hero banner, section divider and toolbox.
 
-Run from the repo root:  python3 assets/make_art.py   (needs numpy + matplotlib)
+Run from the repo root:
+    pip install -r assets/requirements.txt
+    python3 assets/make_art.py
 
 Everything is plain SVG + CSS animation, so GitHub renders it with no external services.
 Edit PROFILE / TOOLS below and re-run to update the images.
