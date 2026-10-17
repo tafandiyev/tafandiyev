@@ -30,3 +30,9 @@ Core Focus:
   - Molecular Representations (Morgan Fingerprints, ISIDA Descriptors, SMILES)
   - Process Simulation & Thermodynamics (Aspen HYSYS)
 Seeking: Master's thesis internship in Chemoinformatics, CADD & Molecular Modelling
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="./github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
+</p>
